@@ -159,7 +159,7 @@ Sector wise Analysis:
 
 In March month, the commons stocks and ETF are negatively correlated with covid data.
 
-3% to 40% with positive cases, 1.6% to 45% with negative cases and 6.7% to 36% with negative cases. On an average the materials sector was hit by the pandemic and the impact was 35% negative performance.
+3% to 40% with positive cases, 1.6% to 45% with negative cases and 6.7% to 36% with death cases. On an average the materials sector was hit by the pandemic and the impact was 35% negative performance.
 
 From April month however, all the stocks and ETF are positively correlated to the covid data, with a range of 55% to 97% with positive cases, 50% to 96% with negative cases and 57% to 96% with death cases.
 
@@ -169,7 +169,7 @@ This shows that market performance improved over the time period despite the pan
 
 In March month, the commons stocks and ETF are negatively correlated with covid data.
 
-21% to 60% with positive cases, 24% to 63% with negative cases and 13% to 50% with negative cases. On an average the communications sector was hit by the pandemic and the impact was 56% negative performance.
+21% to 60% with positive cases, 24% to 63% with negative cases and 13% to 50% with death cases. On an average the communications sector was hit by the pandemic and the impact was 56% negative performance.
 
 From April month however, except one common stock under comparison, all the others are positively correlated to the covid data, with a range of 29% to 95% with positive cases, 28% to 94% with negative cases and 32% to 98% with death cases.
 
@@ -179,7 +179,7 @@ The volatility of returns remained almost same for the securities under study.
 
 In March month, the commons stocks and ETF are negatively correlated with covid data.
 
-26% to 45% with positive cases, 29% to 48% with negative cases and 21% to 38% with negative cases. On an average the energy sector was hit by the pandemic and the impact was 43% negative performance.
+26% to 45% with positive cases, 29% to 48% with negative cases and 21% to 38% with death cases. On an average the energy sector was hit by the pandemic and the impact was 43% negative performance.
 
 From April month however, couple of common stocks and the ETF under comparison are still negatively correlated and only one common stock is positively correlated to the covid data, with a range of 37% to 52% with positive cases, 39% to 56% with negative cases and 15% to 31% with death cases.
 
@@ -189,7 +189,7 @@ This shows that market performance deteriorated over the time period due to the 
 
 In March month, the commons stocks and ETF are negatively correlated with covid data.
 
-2.3% to 38% with positive cases, 0.3% to 41% with negative cases and 8.2% to 29% with negative cases. On an average the finance sector was hit by the pandemic and the impact was 33% negative performance.
+2.3% to 38% with positive cases, 0.3% to 41% with negative cases and 8.2% to 29% with death cases. On an average the finance sector was hit by the pandemic and the impact was 33% negative performance.
 
 From April month however, all the stocks and ETF are positively correlated to the covid data, with a range of 37% to 72% with positive cases, 34% to 70% with negative cases and 53% to 77% with death cases.
 
@@ -199,7 +199,7 @@ This shows that market performance improved over the time period despite the pan
 
 In March month, most commons stocks and ETF are negatively correlated with covid data. A couple of stocks under study are positively correlated. The magnitudes of positive correlations and negative correlations are similar.
 
-10% to 35% with positive cases, 13% to 35% with negative cases and 19% to 37% with negative cases. On an average the industrials sector was hit by the pandemic and the impact was 36% positive to 36% negative performance.
+10% to 35% with positive cases, 13% to 35% with negative cases and 19% to 37% with death cases. On an average the industrials sector was hit by the pandemic and the impact was 36% positive to 36% negative performance.
 
 From April month , most of the stocks and ETF are positively correlated to the covid data, the stock that performed better despite the pandemic started going down in performance, with a range of 35% to 98% with positive cases, 32% to 92% with negative cases and 33% to 98% with death cases.
 
@@ -215,9 +215,60 @@ From April month however, all the stocks and ETF are positively correlated to th
 
 The performace of the sector is more stabilised and improved from April. Volatilities of the stocks remained same.
 
-7. 
+7. Consumer Staples:
+
+In March month, the commons stocks and ETF are negatively correlated with covid data.
+
+29% to 66% with positive cases, 32% to 69% with negative cases and 19% to 54% with death cases. On an average the consumer staples sector was hit by the pandemic and the impact was 61% negative performance.
+
+From April however, except one of the common stock under comparison, all the other stocks and ETF are positively correlated with the covid data, with a range of 62% to 95% with positive cases, 66% to 95% with negative cases, and 58% to 94% with death cases, with an average of 95% positive correlation with the pandemic.
+
+The performance of the sector improved from April and the volatility of returns reduced to a significant extent.
+
+8. Health Care
+
+In March month, the commons stocks and ETF are negatively correlated with covid data.
+
+4% to 38% with positive cases, 2.8% to 41% with negative cases and 10% to 30% with death cases. On an average the health care sector was hit by the pandemic and the impact was 36% negative performance.
+
+From April, most of the securities under comparison are positively correllated with the coronavirus data. The ETF is positively correlated. This shows that, most of the entities in the sector performed well and some of the entities failed to. There is a mild pattern that, the retail outlets in the industry failed to perform well. The range of correlation being, 1.6% to 60% negattive and 77% to 93% positive with positive test cases, 44% to 60% negatively and 73% to 92% positively with negative cases, and 9.6% to 68% negatively and 82% to 94% positively with death cases, with an average of 63% negatively and 93% positively with the pandemic.
+
+The volatilities of returns reduced.
+
+9. Consumer Discretionary
+
+In March month, the commons stocks and ETF are negatively correlated with covid data.
+
+23% to 39% with positive cases, 26% to 57% with negative cases and 14% to 41% with death cases. On an average the consumer discretionary sector was hit by the pandemic and the impact was 45% negative performance.
+
+From April month however, all the stocks and ETF are positively correlated to the covid data, with a range of 25% to 94% with positive cases, 24% to 94% with negative cases and 33% to 97% with death cases. Average performance correlation being, 95% positive.
+
+The sector performance improved after the initial impact from the pandameic. The volatility of returns reduced.
+
+10. Real Estate
+
+In March month, the commons stocks and ETF are negatively correlated with covid data.
+
+20% to 51% with positive cases, 23% to 55% with negative cases and 10% to 42% with death cases. On an average the real estate sector was hit by the pandemic and the impact was 46% negative performance.
+
+From April, almost all the securities performed well and have a positive correlation with the increasing covid test numbers. The magnitude being, 61% to 89% with positive cases, 41% to 81% with negative cases and 51% to 94% with death cases, average correlation being, 90% Positive.
+
+The sector performance improved and volatility of returns increased.
+
+11. Utilities
+
+In March month, the commons stocks and ETF are negatively correlated with covid data.
+
+5.4% to 36% with positive cases, 8.1% to 39% with negative cases and 1.2% to 24% with death cases. On an average the real estate sector was hit by the pandemic and the impact was 33% negative performance.
+
+From April however, the sector performance is mixed. Some securities under test are correlated positively and some are correlated negatively with a negative performance, magnituded being, 1.7% to 4% negative and 51% to 91% positive with positive test cases, 4.5% to 9.1% negatively and 54% to 92% positively with negative cases, and 7.1% to 15% negatively and 52% to 94% positively with death cases, with an average of 5% negatively and 93% positively with the pandemic.
+
+The performance of the sector improved on an average and volatily of returns reduced to a significant level.
 
 
+Summary
+
+![Summary of all Sectors](Images/ExcelSector.png)
 
 
 
