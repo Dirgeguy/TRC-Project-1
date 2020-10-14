@@ -147,13 +147,6 @@ Visual representations used:
 The following analysis has been deduced:
 
 Market Analysis :
-
-
-**Kumar will provide**
-
-
-
-
 Sector wise Analysis:
 1. Materials:
 
