@@ -1,5 +1,4 @@
-# Project 1
-## Tower Research Capitol
+# Tower Research Capitol
 ## *Impact of coronavirus pandemic on ETF market*
 
 Hypothesis:
